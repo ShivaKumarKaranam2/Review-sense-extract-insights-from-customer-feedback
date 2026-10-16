@@ -6,7 +6,10 @@ __pycache__/
 *.pyd
 *.db
 *.sqlite3
+users.db
+user_data/
 .env
 venv/
 *.log
 *infosys
+

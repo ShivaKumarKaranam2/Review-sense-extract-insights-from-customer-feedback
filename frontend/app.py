@@ -12,7 +12,7 @@ ACCENT = "#00A8FF"
 BASE = "http://127.0.0.1:8000"
 
 st.set_page_config(
-    page_title="Infosys ReviewSense",
+    page_title="ReviewSense",
     layout="wide",
     initial_sidebar_state="expanded"
 )
